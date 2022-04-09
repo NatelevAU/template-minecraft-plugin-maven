@@ -1,0 +1,7 @@
+name: TemplatePlugin
+version: 0.1
+author: Natelev
+description: This is a template plugin
+main: com.natelev.templateplugin.TemplatePlugin
+api-version: 1.18
+depend: []
