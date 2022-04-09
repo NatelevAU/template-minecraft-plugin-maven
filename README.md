@@ -1,6 +1,6 @@
 Features
 ----------
-Players added to a random faction
+There are no features yet!
 
 Commands
 ----------
@@ -8,8 +8,7 @@ There are no commands yet!
 
 Config
 ----------
-- Number of factions
-- Faction names
+There is no config yet!
 
 Installing
 ----------
